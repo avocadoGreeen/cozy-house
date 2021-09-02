@@ -256,6 +256,7 @@ body{
 	height: 15px;
 }
 .slick-next:before{
+    z-index: 51;
 	content: "";
 	background-image:  url("../img/slider/right-arrow.png");
 	background-repeat: no-repeat;
@@ -266,6 +267,7 @@ body{
     margin-right: 15px;
 }
 .slick-prev:before{
+    z-index: 51;
 	content: "";
 	background-image: url("../img/slider/left-arrow.png");
 	background-repeat: no-repeat;
