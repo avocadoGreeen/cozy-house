@@ -1,3 +1,3 @@
 # cozy-house landing
 
-https://avocode1353.github.io/cozy-house/
+https://avocadogreeen.github.io/cozy-house/
